@@ -17,3 +17,20 @@
 **Or Copy the command line and paste ( When your you convert Datacenter version )**
 
     DISM /online /Set-Edition:ServerDatacenter /ProductKey:WMDGN-G9PQG-XVVXX-R3X43-63DFG /AcceptEula
+    
+    
+ 
+ **Step 3: Final Active the Windows server 2019 Standrad**
+ 
+ # First Download the Zip file All-in-One Activator
+
+# Must be turn off windows firewall and windows defender
+
+**Step 1: Extract the zip file All in One Activator**
+
+**Step 2: Open file All in One Activator --> Enter Your Choice in the Keyboard ( Choice 3 (KMS38 Activation - Windows 10 /Server)**
+
+**Windows server 2019 Standrad in activated till ......, Then Press any key**
+
+**You Check Activation Status ( Choice 5 )**
+
